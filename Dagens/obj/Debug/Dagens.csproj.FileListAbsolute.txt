@@ -1,0 +1,34 @@
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\Debug\Dagens.exe.config
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\Debug\Dagens.exe
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\Debug\Dagens.pdb
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\MainWindow.g.cs
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\App.g.cs
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens_MarkupCompile.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens_MarkupCompile.lref
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\MainWindow.baml
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.g.resources
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.Properties.Resources.resources
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.csproj.GenerateResource.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.csproj.CoreCompileInputs.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.exe
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.pdb
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\Debug\ordbok.txt
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens_Content.g.cs
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.csprojResolveAssemblyReference.cache
+F:\KODING\Dagens\Dagens\obj\Debug\MainWindow.g.cs
+F:\KODING\Dagens\Dagens\obj\Debug\App.g.cs
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens_Content.g.cs
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens_MarkupCompile.cache
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens_MarkupCompile.lref
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.exe
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.pdb
+F:\KODING\Dagens\Dagens\bin\Debug\ordbok.txt
+F:\KODING\Dagens\Dagens\bin\Debug\Dagens.exe.config
+F:\KODING\Dagens\Dagens\bin\Debug\Dagens.exe
+F:\KODING\Dagens\Dagens\bin\Debug\Dagens.pdb
+F:\KODING\Dagens\Dagens\obj\Debug\MainWindow.baml
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.g.resources
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.Properties.Resources.resources
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.csproj.GenerateResource.cache
+F:\KODING\Dagens\Dagens\obj\Debug\Dagens.csproj.CoreCompileInputs.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\Debug\Dagens.csprojAssemblyReference.cache

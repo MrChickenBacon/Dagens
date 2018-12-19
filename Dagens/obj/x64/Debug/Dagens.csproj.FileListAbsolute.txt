@@ -1,0 +1,17 @@
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\x64\Debug\ordbok.txt
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\x64\Debug\Dagens.exe.config
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\x64\Debug\Dagens.exe
+C:\Users\Get Academy\source\repos\Dagens\Dagens\bin\x64\Debug\Dagens.pdb
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.csprojAssemblyReference.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\App.g.cs
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens_Content.g.cs
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens_MarkupCompile.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens_MarkupCompile.lref
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\MainWindow.baml
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.g.resources
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.Properties.Resources.resources
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.csproj.GenerateResource.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.csproj.CoreCompileInputs.cache
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.exe
+C:\Users\Get Academy\source\repos\Dagens\Dagens\obj\x64\Debug\Dagens.pdb
